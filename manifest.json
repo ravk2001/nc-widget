@@ -1,0 +1,18 @@
+{
+  "name": "nc-widget",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "DRMP",
+  "description": "North Carolina parcel export widget (SHP / KMZ)",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false
+  },
+  "translatedLocales": [],
+  "defaultSize": {
+    "width": 400,
+    "height": 600
+  }
+}
